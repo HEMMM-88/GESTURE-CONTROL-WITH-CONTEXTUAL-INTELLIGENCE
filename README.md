@@ -227,6 +227,13 @@ gesture_control/
 
 ---
 
+## 👥 Contributors
+
+- AbhishekRathod1
+- HEMANTH REDDY (HEMMM-88)
+
+---
+
 ## 📝 Logs
 
 All gesture events are logged to `gesture_control.log` in the project folder for debugging.
